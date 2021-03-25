@@ -1,0 +1,11 @@
+body{
+    background-color: cyan;
+    text-align: center;
+}
+.menu{
+    text-align: left;
+    text-decoration: underline;
+}
+html{
+    background-color: plum;
+}
